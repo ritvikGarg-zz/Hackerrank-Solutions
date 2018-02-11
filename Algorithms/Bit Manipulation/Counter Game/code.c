@@ -5,10 +5,10 @@
 
 int main() {
 
-    int t;
-    scanf("%d",&t);
+    int test_cases;
+    scanf("%d",&test_cases);
     int i;
-    for(i=0;i<t;i++)
+    for(i=0;i<test_cases;i++)
     {
         int count=0;
         unsigned long long int a;

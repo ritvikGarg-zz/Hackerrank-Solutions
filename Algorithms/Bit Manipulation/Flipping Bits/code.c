@@ -9,7 +9,7 @@ int main()
     for(i=0;i<t;i++)
     {
         arr[33]={0};
-        scanf("%llu",&n
+        scanf("%llu",&n;
         while(n>1)
         {
             a=log(n)/log(2);

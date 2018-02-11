@@ -1,5 +1,5 @@
 /*
-for complete question go to this link: https://www.hackerrank.com/challenges/lonely-integer/problem
+for complete question go to this link: [here](https://www.hackerrank.com/challenges/lonely-integer/problem)
 ---------------------------------------------------------------------------------------------------
 
 Consider an array of n integers, where all but one of the integers occur in pairs. In other words, every element in  occurs exactly
